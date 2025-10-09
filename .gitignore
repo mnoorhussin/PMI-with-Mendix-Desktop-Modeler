@@ -1,0 +1,20 @@
+/*.launch
+/deployment/
+/packages/
+/releases/
+/.mendix-cache/
+/.classpath
+/.project
+/examine suggested subclade.mpr.bak
+/examine suggested subclade.mpr.lock
+/modeler-merge-marker
+/project-settings.user.json
+/javasource/*/proxies/
+/javasource/system/
+/**/node_modules/
+!/javascriptsource/**/node_modules/
+/nativemobile/builds/
+/vendorlib/temp/
+.DS_Store
+/.svn/
+/mprcontents/mprjournal*
