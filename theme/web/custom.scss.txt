@@ -1,0 +1,19 @@
+/* Info Box Styling */
+.infobox {
+    border: 1px solid #d3d3d3; /* Light gray border */
+    border-radius: 5px;         /* Rounded corners */
+    overflow: hidden;           /* Ensures header fits within rounded corners */
+    margin-bottom: 16px;        /* Adds some space below the box */
+}
+
+.infobox-header {
+    background-color: #e6e6fa;  /* Lavender color, like in your image */
+    padding: 10px 15px;
+    font-weight: bold;
+    color: #333;
+}
+
+.infobox-body {
+    background-color: #fdfdfd;  /* A very light gray/off-white for the body */
+    padding: 15px;
+}
