@@ -28081,4 +28081,34 @@ Do not render = "none"
   z-index: 1000001;
 }
 
+/* Info Box Styling */
+.infobox {
+  border: 1px solid #d3d3d3;
+  /* Light gray border */
+  border-radius: 5px;
+  /* Rounded corners */
+  overflow: hidden;
+  /* Ensures header fits within rounded corners */
+  margin-bottom: 16px;
+  /* Adds some space below the box */
+}
+
+.infobox-header {
+  background-color: #1c1c1d;
+  /* Lavender color, like in your image */
+  border-radius: 6px 6px 0 0;
+  /* Rounded corners */
+  padding: 10px 15px;
+  font-weight: bold;
+  font-size: 17px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.infobox-body {
+  background-color: #fdfdfd;
+  /* A very light gray/off-white for the body */
+  padding: 15px;
+}
+
 /*# sourceMappingURL=theme.compiled.css.map */
